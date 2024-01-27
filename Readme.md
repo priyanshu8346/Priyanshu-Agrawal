@@ -33,8 +33,8 @@
 <table>
 <tr>
 <td align="center"><a href="https://codeforces.com/profile/Unstoppable_1"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/download.png" width="270" height ="250"/></a></br> <h4 style="color:red;">Codeforces Profile</h4>
-<td align="center"><a href="https://leetcode.com/Unstoppable_1/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="270" height ="250"/><h4 style="color:red;">Leetcode Profile</h4>
-<td align="center"><a href="https://www.codechef.com/users/theprince001"><img src="https://github.com/AnuvabSen1/AnuvabSen1/blob/main/images/104332501-41696600-5516-11eb-8cbe-ee755e31a01c.png" width="270" height ="250"/><h4>Codechef Profile</h4>
+<td align="center"><a href="https://leetcode.com/priyanshuagrawal419/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="270" height ="250"/><h4 style="color:red;">Leetcode Profile</h4>
+<td align="center"><a href="https://www.codechef.com/users/theprince001"><img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" width="270" height ="250"/><h4>Codechef Profile</h4>
 </table>
 
 
