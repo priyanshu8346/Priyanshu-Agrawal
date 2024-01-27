@@ -9,7 +9,7 @@
 <br>
 🌱 I’m currently doing MERN stack developement.
 
-📫 How to reach me **2020csb088@gmail.com.com**
+📫 How to reach me **dev.priyanshugrawal@gmail.com**
 
 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
 <br>
@@ -47,7 +47,7 @@
     
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="[[https://www.linkedin.com/in/prince-kumar-192a26222/](https://www.linkedin.com/in/priyanshu-agrawal-124312215/)](https://www.linkedin.com/in/priyanshu-agrawal-124312215/)" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/priyanshu-agrawal-124312215/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
 </p>
